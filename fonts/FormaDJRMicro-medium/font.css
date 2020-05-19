@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'FormaDJRMicro-Medium';
+  src: url('FormaDJRMicro-Medium.eot');
+  src: url('FormaDJRMicro-Medium.eot?#iefix') format('embedded-opentype'),
+       url('FormaDJRMicro-Medium.svg#FormaDJRMicro-Medium') format('svg'),
+       url('FormaDJRMicro-Medium.ttf') format('truetype'),
+       url('FormaDJRMicro-Medium.woff') format('woff'),
+       url('FormaDJRMicro-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

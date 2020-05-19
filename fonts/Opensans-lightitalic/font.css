@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'OpenSans-LightItalic';
+  src: url('OpenSans-LightItalic.eot');
+  src: url('OpenSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+       url('OpenSans-LightItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenSansLight-Italic';
+  src: url('OpenSansLight-Italic.svg#OpenSansLight-Italic') format('svg'),
+       url('OpenSansLight-Italic.ttf') format('truetype'),
+       url('OpenSansLight-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

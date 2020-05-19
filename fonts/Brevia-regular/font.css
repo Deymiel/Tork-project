@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Brevia-Regular';
+  src: url('Brevia-Regular.eot');
+  src: url('Brevia-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Brevia-Regular.svg#Brevia-Regular') format('svg'),
+       url('Brevia-Regular.ttf') format('truetype'),
+       url('Brevia-Regular.woff') format('woff'),
+       url('Brevia-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
